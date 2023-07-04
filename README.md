@@ -2,4 +2,4 @@
 
 
 *Example taked from:*
-[title](https://andela.com/insights/using-golang-to-create-a-restful-json-api/)
+[andela.com](https://andela.com/insights/using-golang-to-create-a-restful-json-api/)
